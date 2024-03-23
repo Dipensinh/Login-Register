@@ -1,0 +1,46 @@
+{
+  "userdata": [
+    {
+      "id": "1",
+      "name": "dipu",
+      "email": "dipu@007",
+      "password": 7000,
+      "role": "1"
+    },
+    {
+      "id": "1",
+      "name": "priya",
+      "email": "priya@006",
+      "password": 8000,
+      "role": "1"
+    },
+    {
+      "id": "1",
+      "name": "pruthavisinh",
+      "email": "pruthavi@008",
+      "password": 9000,
+      "role": "1"
+    },
+    {
+      "id": "908a",
+      "name": "bhumi ",
+      "email": "Bhumi@006",
+      "password": "123",
+      "role": "1"
+    },
+    {
+      "id": "e14d",
+      "name": "rushi",
+      "email": "rushi@007",
+      "password": "123",
+      "role": "2"
+    },
+    {
+      "id": "c8b6",
+      "name": "diya",
+      "email": "diya@007",
+      "password": "123",
+      "role": "2"
+    }
+  ]
+}
